@@ -1,6 +1,4 @@
 
-O
-src/main/java/jpabook/Main.java,d\d\ddbe459e6552d525a8ecd082da24e681b086283a
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 `
@@ -27,10 +25,12 @@ G.idea/sonarlint/issuestore/4/b/4bf907111baa3183e3e5fe7c9be862ec7da142f7,3\7\37
 w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
 Å
-Q.idea/sonarlint/securityhotspotstore/d/d/ddbe459e6552d525a8ecd082da24e681b086283a,7\b\7bab44e00d94c30cd89f617df39bcd896065c4f5
-Å
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
 Å
 Q.idea/sonarlint/securityhotspotstore/b/e/be11ca5f753c33204b340512509491ae2239cb4b,7\4\74b2bc6095ceaeda7460d47c12bc187b1cc61f2d
 Å
 Q.idea/sonarlint/securityhotspotstore/5/f/5ff98ff609f00aa390c3badb12b283b172996795,5\6\56fdf9e381d657fb356fdcd26a4d5199778ae502
+e
+5src/main/java/jpabook/jpashop/domain/OrderStatus.java,6\2\6263648f9b5a55943c09d979922e8aaebe8b7604
+Z
+*src/main/java/jpabook/jpashop/JpaMain.java,d\8\d8078389fd62838fd61e9a23df1bf84f0a19134a
